@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-02-19T14:23:52.654-0300</date>
+  <logger>RENATO DANTAS HENRIQUES</logger>
+  <level>FINE</level>
+  <message>File 116210613-RENATO DANTAS HENRIQUES.zip was received. It was sent by RENATO DANTAS HENRIQUES from IP 192.168.25.91</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-02-19T18:28:38.606-0300</date>
+  <logger>RENATO DANTAS HENRIQUES</logger>
+  <level>FINE</level>
+  <message>File 116210613-RENATO DANTAS HENRIQUES.zip was received. It was sent by RENATO DANTAS HENRIQUES from IP 192.168.25.91</message>
+</record>
